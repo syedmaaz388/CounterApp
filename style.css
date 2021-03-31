@@ -64,3 +64,9 @@ html,body{
     color: white;
     cursor: pointer;
 }
+@media(max-width:550px){
+    .counter{
+        width: 70%;
+        height: 50%;
+    }
+}
