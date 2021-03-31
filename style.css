@@ -67,6 +67,6 @@ html,body{
 @media(max-width:550px){
     .counter{
         width: 70%;
-        height: 50%;
+        
     }
 }
